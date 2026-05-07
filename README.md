@@ -2,7 +2,7 @@
 
 Dashboard public de suivi des décisions réglementaires et des avis déontologiques sur les médias français.
 
-🔗 **[jeansauvignon.github.io/veille-medias-fr](https://jeansauvignon.github.io/veille-medias-fr/)**
+🔗 **[media-watch.github.io/veille-medias-fr](https://media-watch.github.io/veille-medias-fr/)**
 
 ---
 
