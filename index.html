@@ -492,6 +492,12 @@ function renderBarChart(decisions) {
   const el = document.getElementById('chart-bar');
   if (!barChart) barChart = echarts.init(el, null, { renderer: 'canvas' });
 
+  // Trier les chaînes par total décroissant
+  const sorted = CHANNELS.slice().sort((a, b) =>
+    decisions.filter(d => d.channel === b).length -
+    decisions.filter(d => d.channel === a).length
+  );
+
   barChart.setOption({
     backgroundColor: 'transparent',
     tooltip: {
@@ -508,7 +514,7 @@ function renderBarChart(decisions) {
     },
     grid: ECHART_GRID,
     xAxis: {
-      type: 'category', data: CHANNELS,
+      type: 'category', data: sorted,
       axisLabel: ECHART_TEXT, axisLine: ECHART_AXIS, splitLine: { show: false },
     },
     yAxis: {
@@ -518,7 +524,7 @@ function renderBarChart(decisions) {
     series: TYPES.map((t, i) => ({
       name: t, type: 'bar', stack: 'total',
       emphasis: { focus: 'series' },
-      data: CHANNELS.map(ch => decisions.filter(d => d.channel === ch && d.type === t).length),
+      data: sorted.map(ch => decisions.filter(d => d.channel === ch && d.type === t).length),
       itemStyle: {
         color: TYPE_COLOR[t],
         borderRadius: i === TYPES.length - 1 ? [4, 4, 0, 0] : [0, 0, 0, 0],
