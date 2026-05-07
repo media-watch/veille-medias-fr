@@ -10,10 +10,10 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bfm:   #E30613;
-      --cnews: #1D2A5F;
-      --lci:   #FF6B00;
-      --fi:    #003189;
+      --bfm:   #60a5fa;
+      --cnews: #ef4444;
+      --lci:   #1d4ed8;
+      --fi:    #fbbf24;
       --intervention:  #6ee7b7;
       --garde:         #fcd34d;
       --demeure:       #fb923c;
@@ -271,9 +271,9 @@
       font-size: 0.8rem;
     }
     .cell-channel[data-ch="BFM TV"]    { color: var(--bfm); }
-    .cell-channel[data-ch="CNews"]     { color: #4d7de8; }
+    .cell-channel[data-ch="CNews"]     { color: var(--cnews); }
     .cell-channel[data-ch="LCI"]       { color: var(--lci); }
-    .cell-channel[data-ch="Franceinfo"]{ color: #60a5fa; }
+    .cell-channel[data-ch="Franceinfo"]{ color: var(--fi); }
 
     .type-badge {
       display: inline-flex;
@@ -420,10 +420,10 @@
 <script>
 // ── Palette ──────────────────────────────────────────────────────────────
 const CHANNEL_COLOR = {
-  'BFM TV':    '#E30613',
-  'CNews':     '#4d7de8',
-  'LCI':       '#FF6B00',
-  'Franceinfo':'#3b82f6',
+  'BFM TV':    '#60a5fa',
+  'CNews':     '#ef4444',
+  'LCI':       '#1d4ed8',
+  'Franceinfo':'#fbbf24',
 };
 const CHANNELS = ['BFM TV', 'CNews', 'LCI', 'Franceinfo'];
 const TYPES    = ['Intervention', 'Mise en garde', 'Mise en demeure', 'Sanction financière'];
@@ -537,20 +537,24 @@ function renderLineChart() {
   const el = document.getElementById('chart-line');
   if (!lineChart) lineChart = echarts.init(el, null, { renderer: 'canvas' });
 
+  const globalMin = ALL.map(d => d.date).sort()[0];
+
   const series = CHANNELS.map(ch => {
-    // Regroupe les décisions par date, puis accumule
     const byDate = {};
     ALL.filter(d => d.channel === ch).forEach(d => {
       byDate[d.date] = (byDate[d.date] || 0) + 1;
     });
     let cum = 0;
-    const data = Object.entries(byDate)
+    const points = Object.entries(byDate)
       .sort(([a], [b]) => a.localeCompare(b))
       .map(([date, n]) => { cum += n; return [date, cum]; });
 
+    // Point de départ à 0 pour que toutes les chaînes partent du même x
+    const data = [[globalMin, 0], ...points];
+
     return {
       name: ch, type: 'line',
-      step: 'end',  // fonction escalier : le total monte le jour J
+      smooth: true,
       emphasis: { focus: 'series' },
       lineStyle: { width: 2.5, color: CHANNEL_COLOR[ch] },
       itemStyle: { color: CHANNEL_COLOR[ch] },
