@@ -262,6 +262,8 @@ def scrape_all() -> list[dict]:
 def main():
     print("=== Arcom scraper — chaînes d'info en continu ===")
     decisions = scrape_all()
+    if not decisions:
+        raise SystemExit("ERREUR : 0 décision trouvée — la structure du site a peut-être changé. Données non écrasées.")
     print(f"\n{len(decisions)} décision(s) trouvée(s) pour les 4 chaînes.")
 
     channels = {}
