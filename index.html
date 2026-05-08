@@ -63,11 +63,10 @@
     }
     .header-slogan em { color: #93c5fd; font-style: normal; }
     .header-desc {
-      font-size: 0.78rem;
+      font-size: 0.82rem;
       color: var(--muted);
       line-height: 1.65;
-      max-width: 380px;
-      text-align: right;
+      max-width: 600px;
       margin-top: 10px;
     }
     .header-desc strong { color: #cbd5e1; }
@@ -289,12 +288,6 @@
 <header>
   <div class="header-left">
     <div class="header-slogan">Une information <em>fiable</em>,<br>fondement de notre démocratie.</div>
-  </div>
-  <div class="header-right">
-    <nav class="tabs">
-      <button class="tab-btn active" data-tab="arcom">Arcom <span class="tab-sub">régulation</span></button>
-      <button class="tab-btn" data-tab="cdjm">CDJM <span class="tab-sub">autorégulation</span></button>
-    </nav>
     <div class="header-desc" id="tab-desc-arcom">
       L'<strong>Arcom</strong> veille au respect des obligations des chaînes de télévision et de radio.
       Elle peut prononcer des interventions, mises en garde, mises en demeure et sanctions financières.
@@ -309,6 +302,12 @@
       — <a href="https://cdjm.org/decisions/" target="_blank" rel="noopener">↗ cdjm.org</a>
       <span class="badge-updated" id="cdjm-updated"></span>
     </div>
+  </div>
+  <div class="header-right">
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="arcom">Arcom <span class="tab-sub">régulation</span></button>
+      <button class="tab-btn" data-tab="cdjm">CDJM <span class="tab-sub">autorégulation</span></button>
+    </nav>
   </div>
 </header>
 
