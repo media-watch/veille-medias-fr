@@ -63,10 +63,12 @@
     }
     .header-slogan em { color: #93c5fd; font-style: normal; }
     .header-desc {
-      font-size: 0.82rem;
+      font-size: 0.78rem;
       color: var(--muted);
       line-height: 1.65;
-      max-width: 600px;
+      max-width: 380px;
+      text-align: right;
+      margin-top: 10px;
     }
     .header-desc strong { color: #cbd5e1; }
     .header-desc a { color: #60a5fa; text-decoration: none; }
@@ -104,6 +106,15 @@
       border-color: var(--border);
       border-bottom-color: var(--bg);
       color: #93c5fd;
+    }
+    .tab-sub {
+      display: block;
+      font-size: 0.65rem;
+      font-weight: 400;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      opacity: 0.6;
+      margin-top: 2px;
     }
     .badge-updated {
       background: #1e3a5f;
@@ -278,29 +289,26 @@
 <header>
   <div class="header-left">
     <div class="header-slogan">Une information <em>fiable</em>,<br>fondement de notre démocratie.</div>
-    <div class="header-desc" id="tab-desc-arcom">
-      L’<strong>Arcom</strong> (Autorité de régulation de la communication audiovisuelle et numérique)
-      veille au respect des obligations des chaînes de télévision et de radio.
-      Elle peut prononcer des interventions, mises en garde, mises en demeure et sanctions financières.<br>
-      Ce tableau de bord recense ses décisions sur BFM TV, CNews, LCI et Franceinfo.
-      — <a href="https://www.arcom.fr/se-documenter/espace-juridique/decisions" target="_blank" rel="noopener">↗ arcom.fr</a>
-       <span class="badge-updated" id="arcom-updated"></span>
-    </div>
-    <div class="header-desc" id="tab-desc-cdjm" style="display:none">
-      Le <strong>CDJM</strong> (Conseil de Déontologie Journalistique et de Médiation)
-      est une instance d’autorégulation de la presse, indépendante des pouvoirs publics.
-      Il examine les saisines du public sur le respect des règles déontologiques du journalisme
-      et rend des avis motivés sur tous types de médias.<br>
-      Ce tableau de bord présente les avis fondés et partiellement fondés (saisines retenues).
-      — <a href="https://cdjm.org/decisions/" target="_blank" rel="noopener">↗ cdjm.org</a>
-       <span class="badge-updated" id="cdjm-updated"></span>
-    </div>
   </div>
   <div class="header-right">
     <nav class="tabs">
-      <button class="tab-btn active" data-tab="arcom">Arcom</button>
-      <button class="tab-btn" data-tab="cdjm">CDJM</button>
+      <button class="tab-btn active" data-tab="arcom">Arcom <span class="tab-sub">régulation</span></button>
+      <button class="tab-btn" data-tab="cdjm">CDJM <span class="tab-sub">autorégulation</span></button>
     </nav>
+    <div class="header-desc" id="tab-desc-arcom">
+      L'<strong>Arcom</strong> veille au respect des obligations des chaînes de télévision et de radio.
+      Elle peut prononcer des interventions, mises en garde, mises en demeure et sanctions financières.
+      Ce tableau de bord recense ses décisions sur BFM TV, CNews, LCI et Franceinfo.
+      — <a href="https://www.arcom.fr/se-documenter/espace-juridique/decisions" target="_blank" rel="noopener">↗ arcom.fr</a>
+      <span class="badge-updated" id="arcom-updated"></span>
+    </div>
+    <div class="header-desc" id="tab-desc-cdjm" style="display:none">
+      Le <strong>CDJM</strong> est une instance d'autorégulation de la presse, indépendante des pouvoirs publics.
+      Il examine les saisines du public sur le respect des règles déontologiques du journalisme
+      et rend des avis motivés sur tous types de médias.
+      — <a href="https://cdjm.org/decisions/" target="_blank" rel="noopener">↗ cdjm.org</a>
+      <span class="badge-updated" id="cdjm-updated"></span>
+    </div>
   </div>
 </header>
 
