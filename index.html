@@ -256,6 +256,19 @@
 
     .no-results { padding: 48px; text-align: center; color: var(--muted); font-size: 0.9rem; }
 
+    .methodo {
+      border: 1px solid var(--border);
+      border-left: 3px solid #334155;
+      border-radius: var(--radius);
+      padding: 12px 16px;
+      font-size: 0.76rem;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-top: -8px;
+    }
+    .methodo a { color: #60a5fa; text-decoration: none; }
+    .methodo a:hover { text-decoration: underline; }
+
     footer { text-align: center; padding: 24px; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--border); }
     footer a { color: #60a5fa; text-decoration: none; }
   </style>
@@ -364,6 +377,10 @@
     </div>
   </section>
 
+  <aside class="methodo">
+    <strong style="color:#64748b">Méthodologie</strong> — Les décisions sont attribuées aux chaînes par détection du nom dans le titre de la décision (BFM TV, CNews, LCI, Franceinfo). Les dates correspondent à la date de publication sur arcom.fr, vérifiée individuellement sur chaque page. Une décision visant la société éditrice sans nommer la chaîne peut ne pas être captée. <strong>La source de vérité reste l'<a href="https://www.arcom.fr/se-documenter/espace-juridique/decisions" target="_blank" rel="noopener">espace juridique d'Arcom</a>.</strong>
+  </aside>
+
 </div><!-- /section-arcom -->
 
 <!-- ═══════════════════ CDJM ═══════════════════ -->
@@ -429,6 +446,10 @@
       <div class="no-results" id="cdjm-no-results" style="display:none">Aucun avis ne correspond aux filtres.</div>
     </div>
   </section>
+
+  <aside class="methodo">
+    <strong style="color:#64748b">Méthodologie</strong> — Les avis sont issus de l'API publique du CDJM. Les dates correspondent au champ <code style="font-size:0.73rem;background:#1e293b;padding:1px 4px;border-radius:3px">date_decision</code> de l'API, sans vérification croisée possible faute de page individuelle par avis. Seuls les avis fondés et partiellement fondés figurent dans les graphiques et le tableau ; les non-fondés apparaissent uniquement dans les cartes de synthèse. <strong>La source de vérité reste <a href="https://cdjm.org/decisions/" target="_blank" rel="noopener">cdjm.org</a>.</strong>
+  </aside>
 
 </div><!-- /section-cdjm -->
 
