@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-06-08",
   "source": "https://yannguegan.pythonanywhere.com/data/dzc/cdjm-data.json",
   "avis": [
     {
@@ -9,6 +9,46 @@
       "topic": "Interventions de Jean-François Achilli à propos de Jordan Bardella",
       "status": "Non fondée",
       "url": "https://cdjm.org/files/avis/24-066.pdf"
+    },
+    {
+      "id": "25-124",
+      "date": "2026-06-03",
+      "medium": "Marianne",
+      "topic": "Enquête sur les liens entre le chercheur Pascal Boniface et le Qatar",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/25-124.pdf"
+    },
+    {
+      "id": "25-182",
+      "date": "2026-06-03",
+      "medium": "France TV Télé matin",
+      "topic": "Chronique sur une lampe présentée comme innovante contre les problèmes de dyslexie",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/25-182.pdf"
+    },
+    {
+      "id": "25-205",
+      "date": "2026-06-03",
+      "medium": "Le Parisien",
+      "topic": "Compte-rendu du procès d’un Témoin de Jéhovah pour abus sexuel",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/25-205.pdf"
+    },
+    {
+      "id": "25-207",
+      "date": "2026-06-03",
+      "medium": "Le Parisien",
+      "topic": "Vidéo sur une jeune femme présentée comme la fille présumée de Vladimir Poutine",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/25-207.pdf"
+    },
+    {
+      "id": "26-010",
+      "date": "2026-06-03",
+      "medium": "L’Express",
+      "topic": "Interview d’une épidémiologiste sur les causes de cancer",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-010.pdf"
     },
     {
       "id": "25-103",
@@ -443,6 +483,14 @@
       "url": "https://cdjm.org/files/avis/25-077.pdf"
     },
     {
+      "id": "25-040",
+      "date": "2025-10-09",
+      "medium": "BFMTV",
+      "topic": "Séquence sur le procès du braquage de Kim Kardashian",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/25-040.pdf"
+    },
+    {
       "id": "25-044",
       "date": "2025-10-09",
       "medium": "Valeurs actuelles",
@@ -465,14 +513,6 @@
       "topic": "Enquête sur la police municipale de Marseille (3/3)",
       "status": "Fondée",
       "url": "https://cdjm.org/files/avis/25-048.pdf"
-    },
-    {
-      "id": "25-040",
-      "date": "2025-09-09",
-      "medium": "BFMTV",
-      "topic": "Séquence sur le procès du braquage de Kim Kardashian",
-      "status": "Fondée",
-      "url": "https://cdjm.org/files/avis/25-040.pdf"
     },
     {
       "id": "25-024",
