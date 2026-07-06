@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-07-06",
   "source": "https://yannguegan.pythonanywhere.com/data/dzc/cdjm-data.json",
   "avis": [
     {
@@ -9,6 +9,46 @@
       "topic": "Interventions de Jean-François Achilli à propos de Jordan Bardella",
       "status": "Non fondée",
       "url": "https://cdjm.org/files/avis/24-066.pdf"
+    },
+    {
+      "id": "25-193",
+      "date": "2026-07-01",
+      "medium": "La Dépêche du Midi",
+      "topic": "Compte rendu d’une opération de police devant un lycée d’Auch",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/25-193.pdf"
+    },
+    {
+      "id": "26-022",
+      "date": "2026-07-01",
+      "medium": "Paris Normandie",
+      "topic": "Article sur la pollution d’un lac par des cyanobactéries",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-022.pdf"
+    },
+    {
+      "id": "26-024",
+      "date": "2026-07-01",
+      "medium": "La République du Centre",
+      "topic": "Compte rendu d’audience d’une affaire de stupéfiants",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-024.pdf"
+    },
+    {
+      "id": "26-027",
+      "date": "2026-07-01",
+      "medium": "Arte",
+      "topic": "Interview de l’auteure d’un livre sur la mère d’Hervé Bazin",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-027.pdf"
+    },
+    {
+      "id": "26-028",
+      "date": "2026-07-01",
+      "medium": "Actu Bretagne",
+      "topic": "Annonce d’une manifestation et d’une contre-manifestation à Rennes",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-028.pdf"
     },
     {
       "id": "25-124",
