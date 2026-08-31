@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-31",
   "source": "https://yannguegan.pythonanywhere.com/data/dzc/cdjm-data.json",
   "avis": [
-    {
-      "id": "24-066",
-      "date": "2026-12-05",
-      "medium": "Franceinfo",
-      "topic": "Interventions de Jean-François Achilli à propos de Jordan Bardella",
-      "status": "Non fondée",
-      "url": "https://cdjm.org/files/avis/24-066.pdf"
-    },
     {
       "id": "25-193",
       "date": "2026-07-01",
@@ -309,7 +301,7 @@
     {
       "id": "25-072",
       "date": "2026-01-09",
-      "medium": "Guadeloupe la",
+      "medium": "Guadeloupe la première",
       "topic": "Article sur les risques de coupure d’eau potable en Guadeloupe faute de charbon actif",
       "status": "Non fondée",
       "url": "https://cdjm.org/files/avis/25-072.pdf"
@@ -985,6 +977,14 @@
       "topic": "Brève sur le mythe des écoles « sans écran »",
       "status": "Non fondée",
       "url": "https://cdjm.org/files/avis/24-100.pdf"
+    },
+    {
+      "id": "24-066",
+      "date": "2024-12-05",
+      "medium": "Franceinfo",
+      "topic": "Interventions de Jean-François Achilli à propos de Jordan Bardella",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/24-066.pdf"
     },
     {
       "id": "24-125",
