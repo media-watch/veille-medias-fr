@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-07",
   "source": "https://yannguegan.pythonanywhere.com/data/dzc/cdjm-data.json",
   "avis": [
+    {
+      "id": "26-026",
+      "date": "2026-09-03",
+      "medium": "L’Équipe TV",
+      "topic": "Analyse de l’arbitrage d’un match de la Coupe d’Afrique des nations",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-026.pdf"
+    },
+    {
+      "id": "26-030",
+      "date": "2026-09-03",
+      "medium": "France 5 C à vous",
+      "topic": "Séquence sur les attaques contre le numéro d’urgence dédié aux victimes de violences conjugales",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-030.pdf"
+    },
+    {
+      "id": "26-032",
+      "date": "2026-09-03",
+      "medium": "JT France2",
+      "topic": "Reportage sur une œuvre spoliée par les nazis et retrouvée au château de Versailles",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-032.pdf"
+    },
+    {
+      "id": "26-058",
+      "date": "2026-09-03",
+      "medium": "Libération",
+      "topic": "Article à propos des contributeurs d’extrême droite du site <em>Off Investigation</em>",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-058.pdf"
+    },
+    {
+      "id": "26-059",
+      "date": "2026-09-03",
+      "medium": "Midi libre",
+      "topic": "Article à propos de produits pour bébé en vente dans une pharmacie de Béziers",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-059.pdf"
+    },
+    {
+      "id": "26-072",
+      "date": "2026-09-03",
+      "medium": "L’étudiant Figaro",
+      "topic": "Article à propos d’un exercice controversé lors d’un atelier d’éducation sexuelle",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-072.pdf"
+    },
+    {
+      "id": "26-074",
+      "date": "2026-09-03",
+      "medium": "Le Courrier de Mantes",
+      "topic": "Article sur des messages injurieux publiés par une candidate aux municipales",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-074.pdf"
+    },
+    {
+      "id": "26-075",
+      "date": "2026-09-03",
+      "medium": "Le Courrier de Mantes",
+      "topic": "Article sur la réaction d’une candidate aux municipales auteure de messages injurieux",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-075.pdf"
+    },
+    {
+      "id": "26-088",
+      "date": "2026-09-03",
+      "medium": "BFMTV",
+      "topic": "Séquence sur les dangers des cyanobactéries après la mort de chiens dans un lac",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-088.pdf"
+    },
     {
       "id": "25-193",
       "date": "2026-07-01",

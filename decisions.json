@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-07",
   "source": "https://www.arcom.fr/se-documenter/espace-juridique/decisions",
   "decisions": [
     {
@@ -108,11 +108,19 @@
     },
     {
       "date": "2026-03-06",
+      "type": "Intervention",
+      "channel": "CNews",
+      "title": "Emissions \"L’Heure des pros\" et \"L’Heure des pros 2\" diffusées le 1er juillet 2025 : intervention auprès de CNEWS",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-lheure-des-pros-et-lheure-des-pros-2-diffusees-le-1er-juillet-2025-intervention-aupres-de-cnews",
+      "id": 14
+    },
+    {
+      "date": "2026-03-06",
       "type": "Mise en garde",
       "channel": "CNews",
       "title": "Emissions \"Face à face été\", \"L’Heure des pros 2 été\" et \"Punchline été\" diffusées les 27 juillet, 10 août et 14 août 2025 : CNEWS mise en garde",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-face-face-ete-lheure-des-pros-2-ete-et-punchline-ete-diffusees-les-27-juillet-10-aout-et-14-aout-2025-cnews-mise-en-garde",
-      "id": 14
+      "id": 15
     },
     {
       "date": "2026-03-06",
@@ -120,7 +128,7 @@
       "channel": "BFM TV",
       "title": "Emission \"Perrine jusqu’à minuit\" le 11 juin 2025 : intervention auprès de BFM TV",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-perrine-jusqua-minuit-le-11-juin-2025-intervention-aupres-de-bfm-tv",
-      "id": 15
+      "id": 16
     },
     {
       "date": "2026-03-06",
@@ -128,14 +136,6 @@
       "channel": "CNews",
       "title": "Emission \"L’Heure des pros été\" diffusée le 25 juillet 2025 : intervention auprès de CNEWS et Europe 1",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-ete-diffusee-le-25-juillet-2025-intervention-aupres-de-cnews-et-europe-1",
-      "id": 16
-    },
-    {
-      "date": "2026-03-06",
-      "type": "Intervention",
-      "channel": "CNews",
-      "title": "Emissions \"L’Heure des pros\" et \"L’Heure des pros 2\" diffusées le 1er juillet 2025 : intervention auprès de CNEWS",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-lheure-des-pros-et-lheure-des-pros-2-diffusees-le-1er-juillet-2025-intervention-aupres-de-cnews",
       "id": 17
     },
     {
@@ -165,10 +165,18 @@
     {
       "date": "2026-02-04",
       "type": "Intervention",
+      "channel": "CNews",
+      "title": "Émission \"L’Heure des pros 2\" diffusée le 19 juin 2025 : intervention auprès de CNEWS",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-19-juin-2025-intervention-aupres-de-cnews",
+      "id": 21
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Intervention",
       "channel": "BFM TV",
       "title": "Émission \"20h BFM\" diffusée le 23 mars 2025 : intervention auprès de BFM TV",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-20h-bfm-diffusee-le-23-mars-2025-intervention-aupres-de-bfm-tv",
-      "id": 21
+      "id": 22
     },
     {
       "date": "2026-02-04",
@@ -176,7 +184,7 @@
       "channel": "CNews",
       "title": "Émission \"La Matinale été\" et al. diffusées le 24 juillet 2025 : intervention auprès de CNEWS",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-ete-et-al-diffusees-le-24-juillet-2025-intervention-aupres-de-cnews",
-      "id": 22
+      "id": 23
     },
     {
       "date": "2026-02-04",
@@ -184,7 +192,7 @@
       "channel": "Franceinfo",
       "title": "Émission \"Le fil info\" diffusée le 12 août 2025 : intervention auprès de franceinfo:",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-le-fil-info-diffusee-le-12-aout-2025-intervention-aupres-de-franceinfo",
-      "id": 23
+      "id": 24
     },
     {
       "date": "2026-02-04",
@@ -192,7 +200,7 @@
       "channel": "CNews",
       "title": "Émission \"L’Heure des pros 2\" diffusée le 8 avril 2025 : intervention auprès de CNEWS",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-8-avril-2025-intervention-aupres-de-cnews",
-      "id": 24
+      "id": 25
     },
     {
       "date": "2026-02-04",
@@ -200,7 +208,7 @@
       "channel": "CNews",
       "title": "Émission \"L’Heure des pros\" diffusée le 8 janvier 2025 : intervention auprès de CNEWS et Europe 1",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-diffusee-le-8-janvier-2025-intervention-aupres-de-cnews-et-europe-1",
-      "id": 25
+      "id": 26
     },
     {
       "date": "2026-02-04",
@@ -208,14 +216,6 @@
       "channel": "BFM TV",
       "title": "Émission \"Face à face\" diffusée le 16 juin 2025 : intervention auprès de BFM TV",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-face-face-diffusee-le-16-juin-2025-intervention-aupres-de-bfm-tv",
-      "id": 26
-    },
-    {
-      "date": "2026-02-04",
-      "type": "Intervention",
-      "channel": "CNews",
-      "title": "Émission \"L’Heure des pros 2\" diffusée le 19 juin 2025 : intervention auprès de CNEWS",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-19-juin-2025-intervention-aupres-de-cnews",
       "id": 27
     },
     {
@@ -342,16 +342,16 @@
       "date": "2024-11-14",
       "type": "Sanction financière",
       "channel": "CNews",
-      "title": "Emission \"En quête d’esprit\" diffusée le 25 février 2024 : sanction pécuniaire à l’encontre de l’éditeur du service",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-en-quete-desprit-diffusee-le-25-fevrier-2024-sanction-pecuniaire-lencontre-de-lediteur-du-service",
+      "title": "Emission \"Morandini Live\" diffusée le 28 septembre 2023 : sanction pécuniaire à l’encontre de l’éditeur du service",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-morandini-live-diffusee-le-28-septembre-2023-sanction-pecuniaire-lencontre-de-lediteur-du-service",
       "id": 43
     },
     {
       "date": "2024-11-14",
       "type": "Sanction financière",
       "channel": "CNews",
-      "title": "Emission \"Morandini Live\" diffusée le 28 septembre 2023 : sanction pécuniaire à l’encontre de l’éditeur du service",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-morandini-live-diffusee-le-28-septembre-2023-sanction-pecuniaire-lencontre-de-lediteur-du-service",
+      "title": "Emission \"En quête d’esprit\" diffusée le 25 février 2024 : sanction pécuniaire à l’encontre de l’éditeur du service",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-en-quete-desprit-diffusee-le-25-fevrier-2024-sanction-pecuniaire-lencontre-de-lediteur-du-service",
       "id": 44
     },
     {
@@ -390,16 +390,16 @@
       "date": "2024-07-10",
       "type": "Sanction financière",
       "channel": "CNews",
-      "title": "Emission \"La Matinale Week-End\" diffusée le 10 décembre 2023 : sanction pécuniaire à l'encontre de l'éditeur du service",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-week-end-diffusee-le-10-decembre-2023-sanction-pecuniaire-lencontre-de-lediteur-du-service",
+      "title": "Emission \"Punchline Eté\" diffusée le 8 août 2023 : sanction pécuniaire à l'encontre de l'éditeur du service",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-punchline-ete-diffusee-le-8-aout-2023-sanction-pecuniaire-lencontre-de-lediteur-du-service",
       "id": 49
     },
     {
       "date": "2024-07-10",
       "type": "Sanction financière",
       "channel": "CNews",
-      "title": "Emission \"Punchline Eté\" diffusée le 8 août 2023 : sanction pécuniaire à l'encontre de l'éditeur du service",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-punchline-ete-diffusee-le-8-aout-2023-sanction-pecuniaire-lencontre-de-lediteur-du-service",
+      "title": "Emission \"La Matinale Week-End\" diffusée le 10 décembre 2023 : sanction pécuniaire à l'encontre de l'éditeur du service",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-week-end-diffusee-le-10-decembre-2023-sanction-pecuniaire-lencontre-de-lediteur-du-service",
       "id": 50
     },
     {
@@ -420,18 +420,18 @@
     },
     {
       "date": "2024-04-30",
-      "type": "Mise en demeure",
-      "channel": "BFM TV",
-      "title": "Emission \"120 minutes\" diffusée le 26 novembre 2023 : BFM TV mise en demeure",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-120-minutes-diffusee-le-26-novembre-2023-bfm-tv-mise-en-demeure",
-      "id": 53
-    },
-    {
-      "date": "2024-04-30",
       "type": "Intervention",
       "channel": "CNews",
       "title": "Emission \"La Matinale\" diffusée le 7 décembre 2023 : intervention auprès CNews",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-diffusee-le-7-decembre-2023-intervention-aupres-cnews",
+      "id": 53
+    },
+    {
+      "date": "2024-04-30",
+      "type": "Mise en demeure",
+      "channel": "BFM TV",
+      "title": "Emission \"120 minutes\" diffusée le 26 novembre 2023 : BFM TV mise en demeure",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-120-minutes-diffusee-le-26-novembre-2023-bfm-tv-mise-en-demeure",
       "id": 54
     },
     {
@@ -462,16 +462,16 @@
       "date": "2024-01-11",
       "type": "Intervention",
       "channel": "CNews",
-      "title": "Emission \"Morandini Live\" diffusée le 26 octobre 2023 : intervention auprès de CNews",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-morandini-live-diffusee-le-26-octobre-2023-intervention-aupres-de-cnews",
+      "title": "Emission \"Face à l’info\" diffusée le 12 octobre 2023 : intervention auprès de CNews",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-face-linfo-diffusee-le-12-octobre-2023-intervention-aupres-de-cnews",
       "id": 58
     },
     {
       "date": "2024-01-11",
       "type": "Intervention",
       "channel": "CNews",
-      "title": "Emission \"Face à l’info\" diffusée le 12 octobre 2023 : intervention auprès de CNews",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-face-linfo-diffusee-le-12-octobre-2023-intervention-aupres-de-cnews",
+      "title": "Emission \"Morandini Live\" diffusée le 26 octobre 2023 : intervention auprès de CNews",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-morandini-live-diffusee-le-26-octobre-2023-intervention-aupres-de-cnews",
       "id": 59
     },
     {
@@ -509,17 +509,17 @@
     {
       "date": "2023-10-03",
       "type": "Intervention",
-      "channel": "CNews",
-      "title": "Emission \"L’Heure des pros\" diffusée le 27 février 2023 : intervention auprès de CNews",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-diffusee-le-27-fevrier-2023-intervention-aupres-de-cnews",
+      "channel": "BFM TV",
+      "title": "Emissions \"Calvi 3D\", \"Première édition\" et Journal télévisé de 20h diffusés les 21 et 22 mars 2023 : intervention auprès de BFM TV et TF1",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-calvi-3d-premiere-edition-et-journal-televise-de-20h-diffuses-les-21-et-22-mars-2023-intervention-aupres-de-bfm-tv-et-tf1",
       "id": 64
     },
     {
       "date": "2023-10-03",
       "type": "Intervention",
-      "channel": "BFM TV",
-      "title": "Emissions \"Calvi 3D\", \"Première édition\" et Journal télévisé de 20h diffusés les 21 et 22 mars 2023 : intervention auprès de BFM TV et TF1",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-calvi-3d-premiere-edition-et-journal-televise-de-20h-diffuses-les-21-et-22-mars-2023-intervention-aupres-de-bfm-tv-et-tf1",
+      "channel": "CNews",
+      "title": "Emission \"L’Heure des pros\" diffusée le 27 février 2023 : intervention auprès de CNews",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-diffusee-le-27-fevrier-2023-intervention-aupres-de-cnews",
       "id": 65
     },
     {
@@ -614,16 +614,16 @@
       "date": "2022-05-20",
       "type": "Mise en demeure",
       "channel": "CNews",
-      "title": "Émission \"L'Heure des pros 2\" diffusée le 1er février 2021 : CNews mise en demeure",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-1er-fevrier-2021-cnews-mise-en-demeure",
+      "title": "Émission \"Les Points sur les i\" diffusée le 21 novembre 2021 : CNews mise en demeure",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-les-points-sur-les-i-diffusee-le-21-novembre-2021-cnews-mise-en-demeure",
       "id": 77
     },
     {
       "date": "2022-05-20",
       "type": "Mise en demeure",
       "channel": "CNews",
-      "title": "Émission \"Les Points sur les i\" diffusée le 21 novembre 2021 : CNews mise en demeure",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-les-points-sur-les-i-diffusee-le-21-novembre-2021-cnews-mise-en-demeure",
+      "title": "Émission \"L'Heure des pros 2\" diffusée le 1er février 2021 : CNews mise en demeure",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-1er-fevrier-2021-cnews-mise-en-demeure",
       "id": 78
     },
     {
