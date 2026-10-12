@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-12",
   "source": "https://yannguegan.pythonanywhere.com/data/dzc/cdjm-data.json",
   "avis": [
+    {
+      "id": "26-014",
+      "date": "2026-10-08",
+      "medium": "X",
+      "topic": "Message publié sur le réseau social X critiquant la démarche d’une association",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-014.pdf"
+    },
+    {
+      "id": "26-020",
+      "date": "2026-10-08",
+      "medium": "Le Télégramme",
+      "topic": "Interview de l’autrice d’un livre sur le syndrome des bébés secoués",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-020.pdf"
+    },
+    {
+      "id": "26-025",
+      "date": "2026-10-08",
+      "medium": "Sqool TV",
+      "topic": "Interview télévisée d’une autrice d’un livre sur le syndrome des bébés secoués",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-025.pdf"
+    },
+    {
+      "id": "26-034",
+      "date": "2026-10-08",
+      "medium": "X",
+      "topic": "Messages relatifs à des procédures judiciaires dans l’affaire du CHU de Rennes",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-034.pdf"
+    },
+    {
+      "id": "26-036",
+      "date": "2026-10-08",
+      "medium": "Midi libre",
+      "topic": "Interview d’un maire sortant et candidat, écrite par lui-même en tant que correspondant local",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-036.pdf"
+    },
+    {
+      "id": "26-041",
+      "date": "2026-10-08",
+      "medium": "X",
+      "topic": "Message relatif à une procédure judiciaire",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-041.pdf"
+    },
+    {
+      "id": "26-044",
+      "date": "2026-10-08",
+      "medium": "X Frontières",
+      "topic": "Diffusion sur X d’une conversation privée d’un candidat aux municipales à Toulon",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-044.pdf"
+    },
+    {
+      "id": "26-045",
+      "date": "2026-10-08",
+      "medium": "La Dépêche du Midi",
+      "topic": "Compte rendu de l’annulation d’une réunion publique sur un projet agrivoltaïque",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-045.pdf"
+    },
     {
       "id": "26-026",
       "date": "2026-09-03",
