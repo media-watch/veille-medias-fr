@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-19",
   "source": "https://www.arcom.fr/se-documenter/espace-juridique/decisions",
   "decisions": [
     {
@@ -236,18 +236,18 @@
     },
     {
       "date": "2025-12-04",
-      "type": "Mise en garde",
-      "channel": "CNews",
-      "title": "Emission \"L’Heure des pros 2\" diffusée le 3 avril 2025 : CNEWS mise en garde",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-3-avril-2025-cnews-mise-en-garde",
-      "id": 30
-    },
-    {
-      "date": "2025-12-04",
       "type": "Intervention",
       "channel": "Franceinfo",
       "title": "Emission \"La matinale\" diffusé le 22 mai 2025 : intervention auprès de franceinfo",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-diffuse-le-22-mai-2025-intervention-aupres-de-franceinfo",
+      "id": 30
+    },
+    {
+      "date": "2025-12-04",
+      "type": "Mise en garde",
+      "channel": "CNews",
+      "title": "Emission \"L’Heure des pros 2\" diffusée le 3 avril 2025 : CNEWS mise en garde",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-3-avril-2025-cnews-mise-en-garde",
       "id": 31
     },
     {
@@ -356,18 +356,18 @@
     },
     {
       "date": "2024-10-31",
-      "type": "Mise en garde",
-      "channel": "CNews",
-      "title": "Emission \"Face à l’info\" diffusée le 17 et 18 avril 2024 : CNews mise en garde",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-face-linfo-diffusee-le-17-et-18-avril-2024-cnews-mise-en-garde",
-      "id": 45
-    },
-    {
-      "date": "2024-10-31",
       "type": "Intervention",
       "channel": "BFM TV",
       "title": "Emission \"BFM Story\" diffusée le 19 juin 2024 : intervention auprès de BFM TV",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-bfm-story-diffusee-le-19-juin-2024-intervention-aupres-de-bfm-tv",
+      "id": 45
+    },
+    {
+      "date": "2024-10-31",
+      "type": "Mise en garde",
+      "channel": "CNews",
+      "title": "Emission \"Face à l’info\" diffusée le 17 et 18 avril 2024 : CNews mise en garde",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-face-linfo-diffusee-le-17-et-18-avril-2024-cnews-mise-en-garde",
       "id": 46
     },
     {
@@ -420,18 +420,18 @@
     },
     {
       "date": "2024-04-30",
-      "type": "Intervention",
-      "channel": "CNews",
-      "title": "Emission \"La Matinale\" diffusée le 7 décembre 2023 : intervention auprès CNews",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-diffusee-le-7-decembre-2023-intervention-aupres-cnews",
-      "id": 53
-    },
-    {
-      "date": "2024-04-30",
       "type": "Mise en demeure",
       "channel": "BFM TV",
       "title": "Emission \"120 minutes\" diffusée le 26 novembre 2023 : BFM TV mise en demeure",
       "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-120-minutes-diffusee-le-26-novembre-2023-bfm-tv-mise-en-demeure",
+      "id": 53
+    },
+    {
+      "date": "2024-04-30",
+      "type": "Intervention",
+      "channel": "CNews",
+      "title": "Emission \"La Matinale\" diffusée le 7 décembre 2023 : intervention auprès CNews",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-la-matinale-diffusee-le-7-decembre-2023-intervention-aupres-cnews",
       "id": 54
     },
     {
@@ -509,17 +509,17 @@
     {
       "date": "2023-10-03",
       "type": "Intervention",
-      "channel": "CNews",
-      "title": "Emission \"L’Heure des pros\" diffusée le 27 février 2023 : intervention auprès de CNews",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-diffusee-le-27-fevrier-2023-intervention-aupres-de-cnews",
+      "channel": "BFM TV",
+      "title": "Emissions \"Calvi 3D\", \"Première édition\" et Journal télévisé de 20h diffusés les 21 et 22 mars 2023 : intervention auprès de BFM TV et TF1",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-calvi-3d-premiere-edition-et-journal-televise-de-20h-diffuses-les-21-et-22-mars-2023-intervention-aupres-de-bfm-tv-et-tf1",
       "id": 64
     },
     {
       "date": "2023-10-03",
       "type": "Intervention",
-      "channel": "BFM TV",
-      "title": "Emissions \"Calvi 3D\", \"Première édition\" et Journal télévisé de 20h diffusés les 21 et 22 mars 2023 : intervention auprès de BFM TV et TF1",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emissions-calvi-3d-premiere-edition-et-journal-televise-de-20h-diffuses-les-21-et-22-mars-2023-intervention-aupres-de-bfm-tv-et-tf1",
+      "channel": "CNews",
+      "title": "Emission \"L’Heure des pros\" diffusée le 27 février 2023 : intervention auprès de CNews",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-diffusee-le-27-fevrier-2023-intervention-aupres-de-cnews",
       "id": 65
     },
     {
@@ -614,16 +614,16 @@
       "date": "2022-05-20",
       "type": "Mise en demeure",
       "channel": "CNews",
-      "title": "Émission \"Les Points sur les i\" diffusée le 21 novembre 2021 : CNews mise en demeure",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-les-points-sur-les-i-diffusee-le-21-novembre-2021-cnews-mise-en-demeure",
+      "title": "Émission \"L'Heure des pros 2\" diffusée le 1er février 2021 : CNews mise en demeure",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-1er-fevrier-2021-cnews-mise-en-demeure",
       "id": 77
     },
     {
       "date": "2022-05-20",
       "type": "Mise en demeure",
       "channel": "CNews",
-      "title": "Émission \"L'Heure des pros 2\" diffusée le 1er février 2021 : CNews mise en demeure",
-      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-lheure-des-pros-2-diffusee-le-1er-fevrier-2021-cnews-mise-en-demeure",
+      "title": "Émission \"Les Points sur les i\" diffusée le 21 novembre 2021 : CNews mise en demeure",
+      "url": "https://www.arcom.fr/se-documenter/espace-juridique/decisions/emission-les-points-sur-les-i-diffusee-le-21-novembre-2021-cnews-mise-en-demeure",
       "id": 78
     },
     {
