@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-16",
   "source": "https://yannguegan.pythonanywhere.com/data/dzc/cdjm-data.json",
   "avis": [
+    {
+      "id": "26-081",
+      "date": "2026-12-11",
+      "medium": "Le Ch’ni",
+      "topic": "Mise en cause d’un manifestant dans un journal",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-081.pdf"
+    },
+    {
+      "id": "26-082",
+      "date": "2026-12-11",
+      "medium": "Cosmopolitan",
+      "topic": "Article sur le lien entre prénom et quotient intellectuel",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-082.pdf"
+    },
+    {
+      "id": "26-016",
+      "date": "2026-11-12",
+      "medium": "Journal des Femmes",
+      "topic": "Article mettant en avant les avantages d’un produit laitier vendu par Lidl",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-016.pdf"
+    },
+    {
+      "id": "26-053",
+      "date": "2026-11-12",
+      "medium": "X Le Figaro",
+      "topic": "Posts sur les réseaux sociaux à propos de l’euthanasie d’une Espagnole victime de viol",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-053.pdf"
+    },
+    {
+      "id": "26-062",
+      "date": "2026-11-12",
+      "medium": "Franceinfo",
+      "topic": "Article sur la séquestration d’un enfant dans une camionnette",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-062.pdf"
+    },
+    {
+      "id": "26-063",
+      "date": "2026-11-12",
+      "medium": "DNA",
+      "topic": "Article sur les listes candidates aux municipales à Strasbourg",
+      "status": "Non fondée",
+      "url": "https://cdjm.org/files/avis/26-063.pdf"
+    },
+    {
+      "id": "26-065",
+      "date": "2026-11-12",
+      "medium": "Sud Ouest",
+      "topic": "Éditorial sur le rapport des jeunes à la lecture",
+      "status": "Fondée",
+      "url": "https://cdjm.org/files/avis/26-065.pdf"
+    },
+    {
+      "id": "26-070",
+      "date": "2026-11-12",
+      "medium": "L’Yonne Républicaine",
+      "topic": "Bref article relatant une rixe dans un centre commercial",
+      "status": "Partiellement fondée",
+      "url": "https://cdjm.org/files/avis/26-070.pdf"
+    },
     {
       "id": "26-014",
       "date": "2026-10-08",
